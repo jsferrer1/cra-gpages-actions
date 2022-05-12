@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cra-gpages-actions/static/js/main.1875ec8f.chunk.js",
-    "main.js.map": "/cra-gpages-actions/static/js/main.1875ec8f.chunk.js.map",
+    "main.js": "/cra-gpages-actions/static/js/main.9c27b010.chunk.js",
+    "main.js.map": "/cra-gpages-actions/static/js/main.9c27b010.chunk.js.map",
     "runtime-main.js": "/cra-gpages-actions/static/js/runtime-main.aba522e7.js",
     "runtime-main.js.map": "/cra-gpages-actions/static/js/runtime-main.aba522e7.js.map",
-    "static/js/2.9f7471c3.chunk.js": "/cra-gpages-actions/static/js/2.9f7471c3.chunk.js",
-    "static/js/2.9f7471c3.chunk.js.map": "/cra-gpages-actions/static/js/2.9f7471c3.chunk.js.map",
+    "static/js/2.bf333659.chunk.js": "/cra-gpages-actions/static/js/2.bf333659.chunk.js",
+    "static/js/2.bf333659.chunk.js.map": "/cra-gpages-actions/static/js/2.bf333659.chunk.js.map",
     "index.html": "/cra-gpages-actions/index.html",
-    "precache-manifest.da60d78f2df89fec666ab6fcc0a5f222.js": "/cra-gpages-actions/precache-manifest.da60d78f2df89fec666ab6fcc0a5f222.js",
+    "precache-manifest.975c0edb0d5e2dbf993b0a5c31b54c15.js": "/cra-gpages-actions/precache-manifest.975c0edb0d5e2dbf993b0a5c31b54c15.js",
     "service-worker.js": "/cra-gpages-actions/service-worker.js",
-    "static/js/2.9f7471c3.chunk.js.LICENSE.txt": "/cra-gpages-actions/static/js/2.9f7471c3.chunk.js.LICENSE.txt"
+    "static/js/2.bf333659.chunk.js.LICENSE.txt": "/cra-gpages-actions/static/js/2.bf333659.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aba522e7.js",
-    "static/js/2.9f7471c3.chunk.js",
-    "static/js/main.1875ec8f.chunk.js"
+    "static/js/2.bf333659.chunk.js",
+    "static/js/main.9c27b010.chunk.js"
   ]
 }
